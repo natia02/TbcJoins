@@ -1,0 +1,323 @@
+{
+  "advisors": [
+    {
+      "name": "David",
+      "surname": "Brown",
+      "age": 35,
+      "students": [
+        {
+          "name": "John",
+          "surname": "Doe",
+          "age": 20,
+          "gpa": 3.5
+        },
+        {
+          "name": "Michael",
+          "surname": "Johnson",
+          "age": 19,
+          "gpa": 3.2
+        },
+        {
+          "name": "Robert",
+          "surname": "Taylor",
+          "age": 19,
+          "gpa": 3.3
+        },
+        {
+          "name": "Ashley",
+          "surname": "Martinez",
+          "age": 21,
+          "gpa": 3.5
+        },
+        {
+          "name": "Jacob",
+          "surname": "Rodriguez",
+          "age": 22,
+          "gpa": 3.6
+        },
+        {
+          "name": "Emma",
+          "surname": "Walker",
+          "age": 19,
+          "gpa": 3.7
+        },
+        {
+          "name": "John",
+          "surname": "Doe",
+          "age": 18,
+          "gpa": 3.5
+        }
+      ]
+    },
+    {
+      "name": "Emily",
+      "surname": "Johnson",
+      "age": 40,
+      "students": [
+        {
+          "name": "John",
+          "surname": "Doe",
+          "age": 20,
+          "gpa": 3.5
+        },
+        {
+          "name": "Michael",
+          "surname": "Johnson",
+          "age": 19,
+          "gpa": 3.2
+        },
+        {
+          "name": "Robert",
+          "surname": "Taylor",
+          "age": 19,
+          "gpa": 3.3
+        },
+        {
+          "name": "Ashley",
+          "surname": "Martinez",
+          "age": 21,
+          "gpa": 3.5
+        },
+        {
+          "name": "Jacob",
+          "surname": "Rodriguez",
+          "age": 22,
+          "gpa": 3.6
+        },
+        {
+          "name": "Emma",
+          "surname": "Walker",
+          "age": 19,
+          "gpa": 3.7
+        },
+        {
+          "name": "Andrew",
+          "surname": "Young",
+          "age": 20,
+          "gpa": 3.5
+        }
+      ]
+    },
+    {
+      "name": "Robert",
+      "surname": "Williams",
+      "age": 42,
+      "students": [
+        {
+          "name": "Jane",
+          "surname": "Smith",
+          "age": 21,
+          "gpa": 3.8
+        },
+        {
+          "name": "Emily",
+          "surname": "Davis",
+          "age": 22,
+          "gpa": 3.7
+        },
+        {
+          "name": "Jessica",
+          "surname": "Thomas",
+          "age": 20,
+          "gpa": 3.9
+        },
+        {
+          "name": "Olivia",
+          "surname": "Lewis",
+          "age": 21,
+          "gpa": 3.8
+        },
+        {
+          "name": "Daniel",
+          "surname": "Hall",
+          "age": 22,
+          "gpa": 3.4
+        },
+        {
+          "name": "Sophia",
+          "surname": "Allen",
+          "age": 21,
+          "gpa": 3.9
+        }
+      ]
+    },
+    {
+      "name": "Sarah",
+      "surname": "Davis",
+      "age": 38,
+      "students": [
+        {
+          "name": "Jane",
+          "surname": "Smith",
+          "age": 21,
+          "gpa": 3.8
+        },
+        {
+          "name": "Emily",
+          "surname": "Davis",
+          "age": 22,
+          "gpa": 3.7
+        },
+        {
+          "name": "Jessica",
+          "surname": "Thomas",
+          "age": 20,
+          "gpa": 3.9
+        },
+        {
+          "name": "Olivia",
+          "surname": "Lewis",
+          "age": 21,
+          "gpa": 3.8
+        },
+        {
+          "name": "Daniel",
+          "surname": "Hall",
+          "age": 22,
+          "gpa": 3.4
+        },
+        {
+          "name": "Sophia",
+          "surname": "Allen",
+          "age": 21,
+          "gpa": 3.9
+        }
+      ]
+    },
+    {
+      "name": "John",
+      "surname": "Thompson",
+      "age": 45,
+      "students": [
+        {
+          "name": "David",
+          "surname": "Wilson",
+          "age": 20,
+          "gpa": 3.4
+        },
+        {
+          "name": "Sarah",
+          "surname": "Anderson",
+          "age": 21,
+          "gpa": 3.6
+        },
+        {
+          "name": "William",
+          "surname": "Garcia",
+          "age": 22,
+          "gpa": 3.1
+        },
+        {
+          "name": "Samantha",
+          "surname": "Clark",
+          "age": 19,
+          "gpa": 3.4
+        },
+        {
+          "name": "Joshua",
+          "surname": "Lee",
+          "age": 20,
+          "gpa": 3.2
+        },
+        {
+          "name": "Daniel",
+          "surname": "Hall",
+          "age": 22,
+          "gpa": 3.4
+        },
+        {
+          "name": "Sophia",
+          "surname": "Allen",
+          "age": 21,
+          "gpa": 3.9
+        }
+      ]
+    },
+    {
+      "name": "Maria",
+      "surname": "Garcia",
+      "age": 37,
+      "students": [
+        {
+          "name": "Ethan",
+          "surname": "Perez",
+          "age": 20,
+          "gpa": 3.6
+        },
+        {
+          "name": "Isabella",
+          "surname": "Torres",
+          "age": 19,
+          "gpa": 3.8
+        },
+        {
+          "name": "Noah",
+          "surname": "Flores",
+          "age": 21,
+          "gpa": 3.7
+        },
+        {
+          "name": "Sophia",
+          "surname": "Rivera",
+          "age": 22,
+          "gpa": 3.9
+        },
+        {
+          "name": "Mia",
+          "surname": "Gonzalez",
+          "age": 19,
+          "gpa": 3.5
+        },
+        {
+          "name": "Liam",
+          "surname": "Gomez",
+          "age": 20,
+          "gpa": 3.6
+        }
+      ]
+    },
+    {
+      "name": "Christopher",
+      "surname": "Martinez",
+      "age": 39,
+      "students": [
+        {
+          "name": "Ava",
+          "surname": "Sanchez",
+          "age": 20,
+          "gpa": 3.9
+        },
+        {
+          "name": "Alexander",
+          "surname": "Reyes",
+          "age": 19,
+          "gpa": 3.6
+        },
+        {
+          "name": "Madison",
+          "surname": "Torres",
+          "age": 19,
+          "gpa": 3.7
+        },
+        {
+          "name": "Lucas",
+          "surname": "Hernandez",
+          "age": 21,
+          "gpa": 3.5
+        },
+        {
+          "name": "Evelyn",
+          "surname": "Lopez",
+          "age": 22,
+          "gpa": 3.8
+        },
+        {
+          "name": "Benjamin",
+          "surname": "Diaz",
+          "age": 20,
+          "gpa": 3.4
+        }
+      ]
+    }
+  ]
+}
